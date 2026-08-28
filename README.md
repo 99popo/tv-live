@@ -2,11 +2,12 @@
 
 用笨办法重名添加TV logo
 
-例 https://gh-proxy.com/http://raw.githubusercontent.com/jn950/live/refs/heads/main/tvlogo/{name}.png
+整合 https://gh-proxy.com/http://raw.githubusercontent.com/jn950/live/refs/heads/main/tvlogo/{name}.png
 
-例 https://gh-proxy.com/http://raw.githubusercontent.com/taksssss/tv/main/icon/{name}.png
+整合 https://gh-proxy.com/http://raw.githubusercontent.com/taksssss/tv/main/icon/{name}.png
 
-例 https://gh-proxy.com/http://raw.githubusercontent.com/CCSH/IPTV//main/logo/{name}.png
+整合 https://gh-proxy.com/http://raw.githubusercontent.com/CCSH/IPTV//main/logo/{name}.png
+
 
 
 #### 作成  https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png
