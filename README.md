@@ -8,12 +8,28 @@
 
 整合 https://gh-proxy.com/http://raw.githubusercontent.com/CCSH/IPTV//main/logo/{name}.png
 
+整合来源俄国网站 https://epg.one/ 中提供的220×132矢量文件 https://epg.one/epgone_transparent_logo.zip
 
 
-#### 作成  https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png
+
+### 作成  https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png
+
+
+
+
+
 
 
 =================以下内容为源readme
+
+
+
+
+
+
+
+
+
 
 
 自动同步到 [gitee](https://gitee.com/taksssss/tv)。
