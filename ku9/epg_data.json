@@ -11594,7 +11594,7 @@
     {
       "epgid": "江苏休闲体育",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏休闲体育.png",
-      "name": "江苏休闲体育,江苏体育,江苏体育休闲"
+      "name": "江苏休闲体育,江苏体育,"
     },
     {
       "epgid": "江苏优漫卡通",
@@ -11604,7 +11604,7 @@
     {
       "epgid": "江苏体育休闲",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏体育休闲.png",
-      "name": "江苏体育休闲,江苏休闲体育"
+      "name": "江苏体育休闲,江苏休闲体育,体育休闲频道"
     },
     {
       "epgid": "江苏公共新闻",
@@ -11624,12 +11624,12 @@
     {
       "epgid": "江苏卫视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png",
-      "name": "江苏卫视,40.江苏卫视-1080P,江苏卫视-4K,江苏卫视4K,江苏卫视F,江苏卫视HD,江苏卫视高清,江苏电视台"
+      "name": "江苏卫视,40.江苏卫视-1080P,,江苏卫视F,江苏卫视HD,江苏卫视高清,江苏电视台"
     },
     {
       "epgid": "江苏卫视4K",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视4K.png",
-      "name": "江苏卫视4K,"
+      "name": "江苏卫视4K,江苏卫视-4K,"
     },
     {
       "epgid": "江苏国际",
