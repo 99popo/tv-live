@@ -1,14 +1,22 @@
-## icon大全整理
+# icon大全整理
 
 用笨办法重名添加TV logo
 
-整合 https://gh-proxy.com/http://raw.githubusercontent.com/jn950/live/refs/heads/main/tvlogo/{name}.png
+整合来源：https://github.com/jn950/live
 
-整合 https://gh-proxy.com/http://raw.githubusercontent.com/taksssss/tv/main/icon/{name}.png
+使用 https://gh-proxy.com/http://raw.githubusercontent.com/jn950/live/refs/heads/main/tvlogo/{name}.png
 
-整合 https://gh-proxy.com/http://raw.githubusercontent.com/CCSH/IPTV//main/logo/{name}.png
+整合来源：https://github.com/taksssss/tv
 
-整合来源俄国网站 https://epg.one/ 中提供的220×132矢量文件 https://epg.one/epgone_transparent_logo.zip
+使用 https://gh-proxy.com/http://raw.githubusercontent.com/taksssss/tv/main/icon/{name}.png
+
+整合来源：https://github.com/CCSH/IPTV
+
+使用 https://gh-proxy.com/http://raw.githubusercontent.com/CCSH/IPTV//main/logo/{name}.png
+
+整合来源俄国网站： https://epg.one/ 
+
+中提供的220×132矢量文件 https://epg.one/epgone_transparent_logo.zip
 
 
 
