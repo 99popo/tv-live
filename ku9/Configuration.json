@@ -64,10 +64,10 @@
     "#提示1": "以下设置（分割线内）为初始化配置（首次安装或清除数据时的默认设置），app第一次运行时的配置！之后运行不会生效！！！",
 
     "#18": "预置列表URL(默认勾选首个)，？个使用双竖线||隔开，格式：地址$自定义名称，地址携带参数需要使用json格式，参考列表订阅提示信息",
-    "LIVE_URLS": "http://47.120.41.246:8025/vip/jar/zb.php$影视仓接口||https://gh-proxy.com/https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt$易发接口||http://rihou.cc:555/gggg.nzk$日后接口||http://www.52top.com.cn:678/downloads/migu.txt$咪咕接口||https://seep.eu.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx365_lite.txt$1978轮播||https://clun.top/lib/iptv.m3u$clun.top||https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt$vinkerq-iptv||https://gh-proxy.com/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt$锋云接口||https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u$Guovin1不更+换线||https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u$Guovin2不更+换线||https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv/main/tv.m3u$atsushi接口||https://seep.eu.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt$组播接口||https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt$Supprise河南||https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt$南风Box||https://gh-proxy.com/https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt$jn950接口||https://gh-proxy.com/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt$锋云接口||https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt$Web2接口||https://5266.kstore.space/xiangxichuanshuo.txt$湘西-有web||https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u$虎牙一起看||https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u$斗鱼一起看||https://live.hacks.tools/iptv/languages/zho.m3u$中文国际||https://ilook.epg.one/5CM5SY98BF24PL/2$俄罗斯免翻||https://seep.eu.org/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv$华数多国||https://seep.eu.org/https://raw.githubusercontent.com/ssili126/ds/main/itvlist.m3u$ssili126||http://193.123.86.190:14888/TV/iptv.php$饭太硬||https://13868.kstore.space/ysj/ext/tdzb.txt$土豆电视快||https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png$EasyTVbox||https://gh-proxy.com/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u$Kimentanm||https://iptv.445569.xyz/live.m3u$裤佬慢接口||",
+    "LIVE_URLS": "http://47.120.41.246:8025/vip/jar/zb.php$影视仓接口||https://gh-proxy.com/https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt$易发接口||http://rihou.cc:555/gggg.nzk$日后接口||http://www.52top.com.cn:678/downloads/migu.txt$咪咕接口||https://seep.eu.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx365_lite.txt$1978轮播||https://clun.top/lib/iptv.m3u$clun.top||https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt$vinkerq-iptv||https://gh-proxy.com/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt$锋云接口||https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u$Guovin1不更+换线||https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u$Guovin2不更+换线||https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv/main/tv.m3u$atsushi接口||https://seep.eu.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt$组播接口||https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt$Supprise河南||https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt$南风Box||https://gh-proxy.com/https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt$jn950接口||https://gh-proxy.com/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt$锋云接口||https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt$Web2接口||https://5266.kstore.space/xiangxichuanshuo.txt$湘西-有web||https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u$虎牙一起看||https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u$斗鱼一起看||https://ilook.epg.one/5CM5SY98BF24PL/2$俄罗斯免翻||https://seep.eu.org/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv$华数多国||https://seep.eu.org/https://raw.githubusercontent.com/ssili126/ds/main/itvlist.m3u$ssili126换线||http://193.123.86.190:14888/TV/iptv.php$饭太硬换线||https://13868.kstore.space/ysj/ext/tdzb.txt$土豆电视快||https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png$EasyTV换线||https://gh-proxy.com/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u$Kimentanm-EXO解码||https://gh-proxy.org/https://raw.githubusercontent.com/pyapk/1/refs/heads/main/zby$裤佬接口||",
 
     "#19": "预置EPG URL(默认勾选首个)，多个使用双竖线||隔开，格式：地址$自定义名称，地址携带参数需要使用json格式，参考EPG订阅提示信息，解析类型需要添加format参数，如{\"url\":\"http://xxx\",\"headers\":{\"User-Agent\":\"Player\"},\"format\":\"XML\"}",
-  "EPG_URLS": "https://epg.zbds.top$【zbds-DIYP】||http://epg.51zmt.top:8000/e.xml.gz$【老张国内】||https://seep.eu.org/https://raw.githubusercontent.com/taksssss/tv/main/epg/51zmte1.xml.gz$【老张国内付费】||https://seep.eu.org/https://raw.githubusercontent.com/taksssss/tv/main/epg/51zmte2.xml.gz$【老张港澳】||https://m3u.ibert.me/epg/51zmt_cc.xml$【老张回看】||https://seep.eu.org/https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz$【国外all】||https://epg.pw/xmltv/epg.xml.gz$【epg.pw全】||https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz$【epg.pwCN改时差】||https://epg.136605.xyz/9days.xml.gz$【9days】||http://epg.dy2.fun:5678$【dy2.fun超级大文件】||https://iptv.b2og.com/epg/112114_xyz.xml$【112114】||https://epg.zsdc.eu.org/t.xml$【zsdc有详情】||https://seep.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/e.xml$【范明明】||https://epg.catvod.com/epg.xml$【CATVOD】||https://tv.mxdyeah.top/epgphp/t.xml$【mxdyeah】||https://tv.mxdyeah.top/epgphp/index.php$【mxdyeah-DIYP】||https://seep.eu.org/https://raw.githubusercontent.com/taksssss/tv/main/epg/epgpw_tw.xml.gz$【epgpw_tw】||https://seep.eu.org/https://raw.githubusercontent.com/isw866/iptv/main/EPG.xml$【isw866】||https://seep.eu.org/https://raw.githubusercontent.com/isw866/iptv/main/K9SDEPG.xml.gz$【866-K9】||http://epg.one/pp.xml.gz$【俄国外语文件大】||", 
+  "EPG_URLS": "https://epg.zbds.top$[zbds-DIYP]||http://epg.51zmt.top:8000/e.xml.gz$[老张国内]||https://seep.eu.org/https://raw.githubusercontent.com/taksssss/tv/main/epg/51zmte1.xml.gz$[老张国内付费]||https://seep.eu.org/https://raw.githubusercontent.com/taksssss/tv/main/epg/51zmte2.xml.gz$[老张港澳]||https://m3u.ibert.me/epg/51zmt_cc.xml$[老张回看]||https://seep.eu.org/https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz$[国外all]||https://epg.pw/xmltv/epg.xml.gz$[epg.pw全]||https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz$[epg.pwCN改时差]||https://epg.136605.xyz/9days.xml.gz$[9days]||http://epg.dy2.fun:5678$[dy2.fun超级大文件]||https://iptv.b2og.com/epg/112114_xyz.xml$[112114]||https://epg.zsdc.eu.org/t.xml$[zsdc有详情]||https://seep.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/e.xml$[范明明]||https://epg.catvod.com/epg.xml$[CATVOD]||https://tv.mxdyeah.top/epgphp/t.xml$[mxdyeah]||https://tv.mxdyeah.top/epgphp/index.php$[mxdyeah-DIYP]||https://seep.eu.org/https://raw.githubusercontent.com/taksssss/tv/main/epg/epgpw_tw.xml.gz$[epgpw_tw]||http://epg.one/pp.xml.gz$[俄国外语文件大]||https://123.tv1288.xyz/2026.xml$[tv1288]||https://seep.eu.org/https://raw.githubusercontent.com/frxz751113/IPTVzb1/761dbeb175fc221e190b83327d831a36d90709e4/pp.xml$[frxz整理] ", 
 
     "#71": "预置JSON URL(默认不勾选)，多个使用双竖线||隔开，格式：地址$自定义名称",
     "LIVE_JSONS": "https://18006.kstore.space/TEST01.json$TEST1||https://18006.kstore.space/test02.json$TEST2",
@@ -112,7 +112,7 @@
     "PL_MEMORYS_ET_SELECT": true,
 
     "#34": "换台反转；true=开启，false=关闭",
-    "LIVE_CHANNEL_REVERSE": false,
+    "LIVE_CHANNEL_REVERSE": true,
 
     "#35": "跨选分组；true=开启，false=关闭",
     "LIVE_CROSS_GROUP": true,
@@ -127,13 +127,13 @@
     "BOOT_START": false,
 
     "#39": "快速退出；true=开启，false=关闭",
-    "QUICK_EXIT": false,
+    "QUICK_EXIT": true,
 
     "#40": "画面锁定；true=开启（切换源时保持最后一个画面，部分设备无效，画面渲染异常可尝试关闭），false=关闭（切换源黑屏一下）",
     "EYE_PROTECTION": false,
 
     "#41": "回放标识；true=显示，false=隐藏",
-    "PLAYBACK_ID": false,
+    "PLAYBACK_ID": true,
 
     "#42": "开启时移；true=开启，false=关闭",
     "TIME_SHIFT_ON": true,
@@ -174,7 +174,7 @@
     "#54": "底部信息栏宽度，负值比默认小，否则比默认大，数值范围：-12~12",
     "BOTTOM_WIDTH": 0,
 
-    "#55": "EPG缓存设置；；0=关闭缓存，1=每天2点，2=每天4点，3=每天6点，4=每天8点，5=每天10点，6=每天12点，7=每天14点，8=每天16点，9=每天18点，10=每天20点，11=每天22点",
+    "#55": "EPG缓存设置；0=关闭缓存，1=每天2点，2=每天4点，3=每天6点，4=每天8点，5=每天10点，6=每天12点，7=每天14点，8=每天16点，9=每天18点，10=每天20点，11=每天22点",
     "EPGCACHE_SELECT": 4,
 
     "#56": "图标缓存开关；true=开启，false=关闭",
@@ -241,7 +241,7 @@
     "DE_INTERLACING": false,
 
     "#80": "webview风格，0=默认正常网页显示，1=隐藏网页内容，显示百分比，2=隐藏网页内容,显示黑屏（1和2需要webview_jscode需实现ku9.hideLoading()函数，视频加载完毕隐藏加载层）",
-    "WEBVIEW_LOADING": 0,
+    "WEBVIEW_LOADING": 1,
 
     "#81": "MPV硬解方式，auto-copy，auto-safe,auto,mediacodec-copy，mediacodec",
     "MPV_HWDEC_OPTION": "mediacodec-copy",
