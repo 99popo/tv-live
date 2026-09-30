@@ -5,8 +5,8 @@
 1.  webview_jscode.js这个文件放入webviewJscode文件夹，它的作用是让酷9app能够播放以webview://打头的网页直播源。
 2.  web.js这个文件放入js文件夹，它的作用是让酷9app能够播放以http//A/ku9/js/web.js?id=打头的网页直播源。
 
- 【注意有修改！】
- 源web.js文件源于[web.js](https://github.com/fuxinyi0505/Ku9-IPTV-source/raw/refs/heads/main/web.js)
+ 【注意有修改！】-by 99popo
+ 源web.js文件源于[https://github.com/fuxinyi0505/Ku9-IPTV-source/raw/refs/heads/main/web.js](https://github.com/fuxinyi0505/Ku9-IPTV-source/raw/refs/heads/main/web.js)
  
  20261001 将其中自动全屏的内容删掉上传为
 **https://raw.githubusercontent.com/99popo/tv-live/main/ku9/web.js**
