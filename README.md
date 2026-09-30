@@ -25,12 +25,15 @@
 
 # Ku9-IPTV-source
 个人收集的一些适用于酷9的直播源，也可以被天光云影、云影空蒙、OK影视等其他app使用。
+
 主要更新于 
+
 https://18006.kstore.space/vodlive/webtv.txt
 
 github备份（更新可能不及时）
 
-？
+[webtv.txt](https://wget.la/https://raw.githubusercontent.com/99popo/tv-live/main/ku9/webtv.txt)
+
 ## 食用指北
 酷9app安装完成后会在存储的主目录生成一个叫“酷9”的文件夹，该文件夹打开后如图所示
 
