@@ -44,14 +44,25 @@ github备份（更新可能不及时）
 ``
 # 配置文件在configuration文件夹内不存在的情况下会自动复制到app的configuration文件夹下，已存在就不会复制及覆盖，首次安装也就是无任何缓存数据的情况下才会读取配置文件，提示部分只读取一次，只读取一次，只读取一次！！！
 [Configuration.json](https://wget.la/https://raw.githubusercontent.com/99popo/tv-live/main/ku9/Configuration.json)
-``最近更新为2026.10.1``
+``最近更新为2026.11.3``
 
-webviewJscode、js、logo这三个文件夹，下面分别加以说明
+[Configuration2.json](https://wget.la/https://raw.githubusercontent.com/99popo/tv-live/main/ku9/Configuration2.json)
+``最近更新为2026.11.3``
+
+``Configuration2.json是2.1.8之后的版本，内容多``
+``
+``
+``
+``
+
+
+**webviewJscode、js、logo这三个文件夹，下面分别加以说明**
 
 1.  webview_jscode.js这个文件放入webviewJscode文件夹，它的作用是让酷9app能够播放以webview://打头的网页直播源。
 2.  web.js这个文件放入js文件夹，它的作用是让酷9app能够播放以http//A/ku9/js/web.js?id=打头的网页直播源。
 
- 【注意有修改！】-by 99popo
+ **【注意有修改！】-by 99popo**
+ 
  源web.js文件源于[https://github.com/fuxinyi0505/Ku9-IPTV-source/raw/refs/heads/main/web.js](https://github.com/fuxinyi0505/Ku9-IPTV-source/raw/refs/heads/main/web.js)
  
  20261001 将其中自动全屏的内容删掉上传为
@@ -60,7 +71,6 @@ webviewJscode、js、logo这三个文件夹，下面分别加以说明
 原作者fuxinyi0505的web.js上传为 https://raw.githubusercontent.com/99popo/tv-live/main/ku9/web0.js 作为备份
 
 3.  epg_data.json这个文件放入logo文件夹，它的作用是让酷9app匹配电视台的logo，也可以用文本编辑的方式按需添加你喜欢的logo。
-
 4. 将webview.txt放到本地 酷9 文件夹下的 localData 文件夹下？
 5. ku9-zgst.py 放到本地 酷9 文件夹下的 py 文件夹下【？没有必要】
 6.  其他文件订阅地址：
